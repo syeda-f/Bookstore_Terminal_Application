@@ -20,4 +20,4 @@ A terminal-based bookstore application where users can register, browse books by
 ## Tools Used
 + Python
 + MySQL
-+ mysql-connector-python
+
